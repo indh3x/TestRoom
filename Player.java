@@ -2,7 +2,7 @@ import sum.ereignis.*;
 import sum.werkzeuge.*;
 /**
  * @author 
- * das ist ein TEST NIKLAS DLJAasdfasdfadfaÖSLDJFÖLASJDKFLJASLDFA
+ * das ist ein TEST NIKLAS DLJAasdfasdfaadsfasdfFA
  * @version 
  */
 
